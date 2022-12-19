@@ -1,6 +1,6 @@
 ### Hi 👋 and welcome to my GitHub profile!
 
-I currently ply my trade as a Cloud Engineer mainly working in the Azure space. I have a keen interest homelabbing and DevOps.
+I currently ply my trade as a Cloud Engineer mainly working in the Azure space. I have a keen interest in homelabbing and DevOps.
 
 # 🧑‍💻 My public repos
 
