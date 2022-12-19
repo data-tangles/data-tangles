@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi 👋 and welcome to my GitHub profile!
 
-<!--
-**qman-being/qman-being** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently ply my trade as a Cloud Engineer mainly working in the Azure space. I have a keen interest homelabbing and DevOps.
 
-Here are some ideas to get you started:
+# 🧑‍💻 My public repos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qman-being&repo=terraform-esxi&theme=radical)](https://github.com/qman-being/terraform-esxi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qman-being&repo=terraform-ansible-lab&theme=radical)](https://github.com/qman-being/terraform-ansible-lab)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qman-being&repo=powershell&theme=radical)](https://github.com/qman-being/powershell)
+
+# 📊 My Stats
+
+[![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=qman-being&show_icons=true&count_private=true&theme=radical&hide=stars)]
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qman-being&theme=dark&count_private=true&theme=radical)]
