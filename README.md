@@ -5,6 +5,7 @@ I currently ply my trade as a Cloud Engineer mainly working in the Azure space. 
 # 🧑‍💻 My public repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qman-being&repo=kubernetes-homelab&theme=radical)](https://github.com/qman-being/kubernetes-homelab)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qman-being&repo=ansible&theme=radical)](https://github.com/qman-being/ansible)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qman-being&repo=terraform-esxi&theme=radical)](https://github.com/qman-being/terraform-esxi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qman-being&repo=terraform-ansible-lab&theme=radical)](https://github.com/qman-being/terraform-ansible-lab)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qman-being&repo=powershell&theme=radical)](https://github.com/qman-being/powershell)
