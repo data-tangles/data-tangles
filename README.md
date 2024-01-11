@@ -8,7 +8,7 @@ I currently work as a Cloud Platform Engineer mainly working in the Azure space.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=data-tangles&repo=ansible&theme=radical)](https://github.com/data-tangles/ansible)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=data-tangles&repo=terraform-oracle&theme=radical)](https://github.com/data-tangles/terraform-oracle)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=data-tangles&repo=terraform-ansible-lab&theme=radical)](https://github.com/data-tangles/terraform-ansible-lab)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=data-tangles&repo=powershell&theme=radical)](https://github.com/data-tangles/powershell)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=data-tangles&repo=packer-esxi&theme=radical)](https://github.com/data-tangles/packer-esxi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=data-tangles&repo=terraform-azure&theme=radical)](https://github.com/data-tangles/terraform-azure)
 
 # 📊 My Stats
